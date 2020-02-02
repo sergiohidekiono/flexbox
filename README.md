@@ -1,2 +1,0 @@
-# flexbox
-Course of flexbox
